@@ -1,3 +1,3 @@
-Counter JS
+# Counter JS
 
-https://abdujalilovismoilov.github.io/Counter-Js/
+https://counter-wine-nine.vercel.app/
